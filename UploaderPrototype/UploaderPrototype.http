@@ -1,0 +1,6 @@
+@UploaderPrototype_HostAddress = http://localhost:5204
+
+GET {{UploaderPrototype_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
